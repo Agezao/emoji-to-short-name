@@ -50,6 +50,20 @@ console.log(decoded);
 
 ```
 
+## API
+
+There're a simple API that provides this lib as an http REST service.
+
+More info at:
+https://emoji-to-short-name.herokuapp.com/
+
+#### Enconding with API:
+https://emoji-to-short-name.herokuapp.com/encode?input=Hello%20world%20🌍🌎
+
+#### Decoding with API:
+https://emoji-to-short-name.herokuapp.com/decode?input=Hello%20world%20:earth_africa::earth_americas:
+
+
 ## 📋 Docs
 | Method | Attributes | Output |
 |---------------------------|-------------|--------------------|
