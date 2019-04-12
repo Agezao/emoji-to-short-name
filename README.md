@@ -8,14 +8,18 @@ Sometimes it's safer to store and transfer `emojis` under an ASCII safe format t
 
 ## How it works 🚀
 
-Input string: `We are meshing 📝 language with 👀 language to communicate ideas and feelings.`
+Input string: 
+
+`We are meshing 📝 language with 👀 language to communicate ideas and feelings.`
 
 #### Encoding
 `emojiSn.encode(input);`
+
 Encoded string: `We are meshing :memo: language with :eyes: language to communicate ideas and feelings.`
 
 #### Decoding
 `emojiSn.decode(encoded);`
+
 Decoded string: `We are meshing 📝 language with 👀 language to communicate ideas and feelings.`
 
 ## Installing
