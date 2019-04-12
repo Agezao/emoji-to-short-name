@@ -1,6 +1,6 @@
 {
   "name": "emoji-to-short-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encode/Decode emojis inside a string to/from his :short-name:",
   "main": "index.js",
   "scripts": {
