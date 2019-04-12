@@ -2,7 +2,9 @@
 > Encode/Decode emojis 📝 inside a string to/from his :short-name:
 
 ## Why?
-Sometimes it's safer to store and transfer `emojis` under an ASCII safe format to prevent the information to get messy or have her integrity violated. So, this package intention is to provide an easy way to `Encode message -> delivery/store -> Decode message to present`.
+Sometimes it's safer to store and transfer `emojis` under an ASCII safe format to prevent the information to get messy or have her integrity violated. So, this package intention is to provide an easy way to:
+
+`Encode message -> delivery/store -> Decode message to present`.
 
 ## How it works 🚀
 
