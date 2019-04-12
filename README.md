@@ -69,7 +69,7 @@ https://emoji-to-short-name.herokuapp.com/
 https://emoji-to-short-name.herokuapp.com/encode?input=Hello%20world%20🌎
 
 #### Decoding with API:
-https://emoji-to-short-name.herokuapp.com/decode?input=Hello%20world%20:earth_americas:
+https://emoji-to-short-name.herokuapp.com/decode?input=Hello%20world%20:earth_americas:%20
 
 
 ## License
